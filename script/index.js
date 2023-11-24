@@ -4,7 +4,6 @@ let minutesInput = document.getElementById('minutesInput');
 let secondsOutput = document.getElementById('secondsOutput');
 let calButton = document.getElementById('calButton');
 
-//Adding event listener
 calButton.addEventListener('click', 
 
 //Adding function
